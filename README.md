@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/0673e61b-33a0-4a62-8ba9-0c9048c38dbf)# GG Laboratories
-
 ## Sobre Nós 💭 
 Na GG Labs, somos apaixonados por criar soluções digitais inovadoras. Nossa equipe é especializada no desenvolvimento de sites responsivos e aplicativos móveis, projetados para transformar ideias em realidade. Trabalhamos com as últimas tecnologias do mercado para entregar produtos escaláveis, seguros e de alta performance.
 
