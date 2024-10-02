@@ -35,7 +35,7 @@ Com vasta experiência em desenvolvimento de negócios e uma forte habilidade em
 **Gabriel Evaristo - CEO** <br>
 Experiente em desenvolvimento de negócios, Gabriel é um líder nato, com um histórico sólido em gerenciar equipes de tecnologia para alcançar resultados impactantes.
 
-**Caio Diniz - Desenvolvedor** Front End <br>
+**Caio Diniz - Desenvolvedor Front End** <br>
 Com uma verdadeira paixão por solucionar desafios tecnológicos, Caio se destaca no front-end, criando interfaces intuitivas e funcionais.
 
 **Vinicius Madureira - Desenvolvedor Front End** <br>
