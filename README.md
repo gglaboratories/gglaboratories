@@ -1,4 +1,4 @@
-# GG Laboratories
+![image](https://github.com/user-attachments/assets/0673e61b-33a0-4a62-8ba9-0c9048c38dbf)# GG Laboratories
 
 ## Sobre Nós 💭 
 Na GG Labs, somos apaixonados por criar soluções digitais inovadoras. Nossa equipe é especializada no desenvolvimento de sites responsivos e aplicativos móveis, projetados para transformar ideias em realidade. Trabalhamos com as últimas tecnologias do mercado para entregar produtos escaláveis, seguros e de alta performance.
@@ -21,11 +21,11 @@ Nosso stack tecnológico inclui:
 ## Como Trabalhamos 
 Adotamos metodologias ágeis para garantir a entrega rápida e eficaz dos nossos projetos, sempre mantendo uma comunicação transparente com nossos clientes. Aqui estão as etapas de um projeto típico:
 
-Descoberta e Planejamento: Compreensão das necessidades do cliente, definição do escopo e elaboração de wireframes.
-Design e Prototipagem: Criação de protótipos funcionais com foco em UX/UI.
-Desenvolvimento: Implementação da solução utilizando as melhores práticas de programação.
-Testes e QA: Garantia de qualidade através de testes rigorosos antes da entrega.
-Lançamento e Suporte: Implantação do produto e suporte contínuo para manutenção e atualizações.
+* **Descoberta e Planejamento:** Compreensão das necessidades do cliente, definição do escopo e elaboração de wireframes.
+* **Design e Prototipagem:** Criação de protótipos funcionais com foco em UX/UI.
+* **Desenvolvimento:** Implementação da solução utilizando as melhores práticas de programação.
+* **Testes e QA:** Garantia de qualidade através de testes rigorosos antes da entrega.
+* **Lançamento e Suporte:** Implantação do produto e suporte contínuo para manutenção e atualizações.
 
 ## Nossa Equipe ‍🤝‍🧑
 Conheça as pessoas por trás de GG Labs, que tornam tudo isso possível:
