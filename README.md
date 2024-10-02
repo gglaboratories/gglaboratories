@@ -1,5 +1,5 @@
 ## Sobre Nós 💭 
-Na GG Labs, somos apaixonados por criar soluções digitais inovadoras. Nossa equipe é especializada no desenvolvimento de sites responsivos e aplicativos móveis, projetados para transformar ideias em realidade. Trabalhamos com as últimas tecnologias do mercado para entregar produtos escaláveis, seguros e de alta performance.
+Na GG Labs, temos uma paixão por desenvolver soluções digitais inovadoras. Nossa equipe é especializada na criação de sites responsivos e aplicativos móveis, transformando ideias em realidade. Utilizamos as mais recentes tecnologias do mercado para garantir produtos escaláveis, seguros e de alto desempenho.
 
 ## O que fazemos: 🤔❓
 
