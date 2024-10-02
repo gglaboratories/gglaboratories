@@ -1,12 +1,13 @@
 ## Sobre Nós 💭 
 Na GG Labs, temos uma paixão por desenvolver soluções digitais inovadoras. Nossa equipe é especializada na criação de sites responsivos e aplicativos móveis, transformando ideias em realidade. Utilizamos as mais recentes tecnologias do mercado para garantir produtos escaláveis, seguros e de alto desempenho.
 
-## O que fazemos: 🤔❓
+## O que fazemos? 🤔
 
-Desenvolvimento de Websites: Criamos sites modernos e responsivos, com foco na experiência do usuário (UX) e otimização para SEO.
-Desenvolvimento de Apps: Aplicativos personalizados para Android e iOS, com interfaces intuitivas e funcionalidades robustas.
-Soluções Sob Medida: Oferecemos soluções específicas para atender às necessidades exclusivas de cada cliente, utilizando tecnologias de ponta.
-Tecnologias
+* **Desenvolvimento de Websites:** Criamos sites modernos e responsivos, com foco na experiência do usuário (UX) e otimização para SEO.
+* **Desenvolvimento de Apps:** Aplicativos personalizados para Android e iOS, com interfaces intuitivas e funcionalidades robustas.
+* **Soluções Sob Medida:** Oferecemos soluções específicas para atender às necessidades exclusivas de cada cliente, utilizando tecnologias de ponta.
+
+## Tecnologias 👾
 Nosso stack tecnológico inclui:
 
 - **Front-end:** React, Angular, Vue.js
