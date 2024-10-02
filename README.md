@@ -30,19 +30,19 @@ Lançamento e Suporte: Implantação do produto e suporte contínuo para manuten
 ## Nossa Equipe ‍🤝‍🧑
 Conheça as pessoas por trás de GG Labs, que tornam tudo isso possível:
 
-Gabriel Neves - CEO <br>
+**Gabriel Neves - CEO** <br>
 Com vasta experiência em desenvolvimento de negócios e uma forte habilidade em liderar equipes de tecnologia, Gabriel traz uma visão estratégica que impulsiona a inovação.
 
-Gabriel Evaristo - CEO <br>
+**Gabriel Evaristo - CEO** <br>
 Experiente em desenvolvimento de negócios, Gabriel é um líder nato, com um histórico sólido em gerenciar equipes de tecnologia para alcançar resultados impactantes.
 
-Caio Diniz - Desenvolvedor Front End <br>
+**Caio Diniz - Desenvolvedor** Front End <br>
 Com uma verdadeira paixão por solucionar desafios tecnológicos, Caio se destaca no front-end, criando interfaces intuitivas e funcionais.
 
-Vinicius Madureira - Desenvolvedor Front End <br>
+**Vinicius Madureira - Desenvolvedor Front End** <br>
 Entusiasta da tecnologia, Vinicius é dedicado a resolver problemas através do front-end, entregando experiências de usuário envolventes e eficazes.
 
-Vinicius Miranda - Desenvolvedor Back End <br>
+**Vinicius Miranda - Desenvolvedor Back End** <br>
 Apaixonado por enfrentar desafios tecnológicos, Vinicius atua no back-end, garantindo que a arquitetura de sistemas funcione de maneira otimizada e robusta.
 
 ## Exemplos de Projetos 🚀
