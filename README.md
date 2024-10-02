@@ -9,12 +9,12 @@ Soluções Sob Medida: Oferecemos soluções específicas para atender às neces
 Tecnologias
 Nosso stack tecnológico inclui:
 
-- Front-end: React, Angular, Vue.js
-- Back-end: Node.js, Python (Django/Flask), Ruby on Rails
-- Mobile: Flutter, React Native, Swift, Kotlin
-- Banco de Dados: MySQL, PostgreSQL, MongoDB
-- DevOps: Docker, Kubernetes, AWS, CI/CD
-- Design: Figma, Adobe XD
+- **Front-end:** React, Angular, Vue.js
+- **Back-end:** Node.js, Python (Django/Flask), Ruby on Rails
+- **Mobile:** Flutter, React Native, Swift, Kotlin
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **DevOps:** Docker, Kubernetes, AWS, CI/CD
+- **Design:** Figma, Adobe XD
   
 ## Como Trabalhamos 
 Adotamos metodologias ágeis para garantir a entrega rápida e eficaz dos nossos projetos, sempre mantendo uma comunicação transparente com nossos clientes. Aqui estão as etapas de um projeto típico:
