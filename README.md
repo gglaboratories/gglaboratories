@@ -55,7 +55,7 @@ Aqui estão alguns exemplos de projetos que desenvolvemos:
 Interessado em trabalhar conosco? Entre em contato!
 
 - Email: gg.laboratoriess@gmail.com
-- LinkedIn: linkedin.com/company/nomedastartup
+- LinkedIn: https://www.linkedin.com/company/gg-laboratoriess/
 - Site: www.nomedastartup.com
 
   
