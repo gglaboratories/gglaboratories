@@ -29,13 +29,13 @@ Adotamos metodologias ágeis para garantir a entrega rápida e eficaz dos nossos
 ## Nossa Equipe ‍🤝‍🧑
 Conheça as pessoas por trás de GG Labs, que tornam tudo isso possível:
 
-**Gabriel Neves - CEO** <br>
+**Gabriel Neves - CO-CEO** <br>
 Com vasta experiência em desenvolvimento de negócios e uma forte habilidade em liderar equipes de tecnologia, Gabriel traz uma visão estratégica que impulsiona a inovação.
 
 **Gabriel Evaristo - CEO** <br>
 Experiente em desenvolvimento de negócios, Gabriel é um líder nato, com um histórico sólido em gerenciar equipes de tecnologia para alcançar resultados impactantes.
 
-**Caio Diniz - Desenvolvedor Front End** <br>
+**Caio Diniz - Desenvolvedor Front End e Análista de Dados** <br>
 Com uma verdadeira paixão por solucionar desafios tecnológicos, Caio se destaca no front-end, criando interfaces intuitivas e funcionais.
 
 **Vinicius Madureira - Desenvolvedor Front End** <br>
